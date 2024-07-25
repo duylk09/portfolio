@@ -1,4 +1,4 @@
 baseURL = 'https://duylk09.github.io/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = 'ananke'
+languageCode = 'en-uk'
+title = 'Don is happy'
+theme = 'personal-web'
