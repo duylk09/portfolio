@@ -1,7 +1,7 @@
 ---
 title: HOME
 description: Welcome to this sample project
-images: ["/images/graduation.jpg"]
+images: ["images/graduation.jpg"]
 ---
 
 Hey,
