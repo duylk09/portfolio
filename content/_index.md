@@ -11,4 +11,4 @@ I am a passionate educator and skilled professional with a Master of Arts in Edu
 
 [Get to know me better](/portfolio/about "Get to know me better")
 
-![Description of my image](/images/graduation.jpg)
+![Description of my image](images/graduation.jpg)
